@@ -15,3 +15,11 @@
 **/.vscode/
 **/.kotlin
 **/.DS_Store
+
+# Unity generated folders
+**/Library/
+**/Logs/
+**/Temp/
+**/Obj/
+**/UserSettings/
+**/MemoryCaptures/

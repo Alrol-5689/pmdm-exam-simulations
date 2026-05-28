@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Smulation2</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_edad">Edad</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="error_campos_vacios">Debes rellenar nombre y edad</string>
+    <string name="datos_usuario">Nombre: %1$s\nEdad: %2$s</string>
 </resources>
